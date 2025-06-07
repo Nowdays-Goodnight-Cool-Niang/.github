@@ -1,12 +1,17 @@
-## Hi there 👋
+> 대충 타이틀 이미지
 
-<!--
+# 프로젝트 개요
+- 슬로건
+- 목적과 비전
+- 대상 사용자
 
-**Here are some ideas to get you started:**
+# 주요 기능
+- 핵심 기능 및 이미지
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+# 시작하기
+## 행사 참여자
+- 카카오 로그인
+- 자기소개 작성
+- 행사 참여
+
+# 지원 및 문의
