@@ -1,6 +1,5 @@
-> 대충 타이틀 이미지
+<img width="2917" height="1157" alt="image" src="https://github.com/user-attachments/assets/e837704e-3e9d-4498-9dc8-01347f9a38fd" />
 
-# 프로젝트 개요
 - 슬로건
 - 목적과 비전
 - 대상 사용자
