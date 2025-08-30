@@ -2,7 +2,7 @@
   
 <div align="center">
   <br/>
-  <img width="120" height="120" alt="image" src="https://github.com/user-attachments/assets/1f3f812e-2a50-4abc-942d-a209ead29f6e" />
+  <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/1f3f812e-2a50-4abc-942d-a209ead29f6e" />
 
   <b>SHARE:V</b>
   
