@@ -5,9 +5,9 @@
   <img width="120" height="120" alt="image" src="https://github.com/user-attachments/assets/1f3f812e-2a50-4abc-942d-a209ead29f6e" />
 
   <b>SHARE:V</b>
-
-  <i>디지털 명함 공유으로<br/>
-  네트워킹을 빠르고 간편하게</i>
+  
+  <i>"디지털 명함 공유으로<br/>
+  네트워킹을 빠르고 간편하게"</i>
 
   SharE:V는 디지털 명함 공유 서비스에요. 행사나 모임에서 나만의 디지털 명함을 만들어 다른 사람과 공유할 수 있어요. <br/>
   QR이나 PIN번호로 상대방과 명함을 손쉽게 공유하고, 행사 이후에도 지속적으로 인연을 이어나갈 수 있어요.
